@@ -8,7 +8,7 @@ _is a program divided to two branches. First it can convert from one numerical s
 >**10** for decimal\
 >**16** for hexadecimal\
 
-## notes
+## Notes
 >negative values not accepted
 
 >fractions is not accepted
@@ -20,6 +20,15 @@ _is a program divided to two branches. First it can convert from one numerical s
 >a valid hexadecimal number is CAPITAL chars(e.i. 'A' NOT 'a').
 
 >negative values is not accepted.
+
+# How the program works (user experience)
+
+asks for user name
+>Hello!,Whats your name ?
+
+asks if you wanna convert a number to another system, Or to collect two numbers (same base)
+
+<choose 1 for conversion or 2 for collecting two numbers:
 
 
 
