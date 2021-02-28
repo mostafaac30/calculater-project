@@ -11,7 +11,7 @@ _is a program divided to two branches. First it can convert from one numerical s
 ## notes
 >negative values not accepted
 
->fractions not accepted
+>fractions is not accepted
 
 >The number mustn't excess 8-digit length
 
@@ -19,7 +19,7 @@ _is a program divided to two branches. First it can convert from one numerical s
 
 >a valid hexadecimal number is CAPITAL chars(e.i. 'A' NOT 'a').
 
->negative values not accepted.
+>negative values is not accepted.
 
 
 
