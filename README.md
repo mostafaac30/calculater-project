@@ -8,9 +8,10 @@ _is a program divided to two branches. First it can convert from one numerical s
 >**10** for decimal\
 >**16** for hexadecimal\
 
-## notes\
+## notes
 >negative values not accepted\
 >fractions not accepted\
+
 >The number mustn't excess 8-digit length\
 >a valid base is 2,8,10 or 16\
 >a valid hexadecimal number is CAPITAL chars(e.i. 'A' NOT 'a').\
