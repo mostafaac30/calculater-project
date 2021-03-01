@@ -68,6 +68,6 @@ I enterd **1** so the output is (in **decimal**) :
 
 ## finally the program repeats itself until user exits it
 
-<img src="drawing.jpg" alt="drawing" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="drawing" width="200"/>
 
 ## ![fb img](https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg) [Facebook](https://www.facebook.com/profile.php?id=100006473238307)
