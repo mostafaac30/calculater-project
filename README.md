@@ -9,7 +9,7 @@ _is a program divided to two branches. First it can convert from one numerical s
 >**16** for hexadecimal\
 
 ## Notes
->negative values not accepted
+>negative values is not accepted
 
 >fractions is not accepted
 
