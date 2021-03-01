@@ -66,8 +66,7 @@ asks for the second operand
 I enterd **1** so the output is (in **decimal**) :
 < Sum is: 299
 
-## finally the program repeats itself until user exits it
+## finally the program repeats itself until user exits it.
 
 
-
-## <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="drawing" width="30" height="30" /> [Facebook](https://www.facebook.com/profile.php?id=100006473238307)
+//## <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="drawing" width="30" height="30" /> [Facebook](https://www.facebook.com/profile.php?id=100006473238307)
