@@ -63,7 +63,7 @@ If **2** entered, The program will start to **collect output** value (in this ca
 asks for the second operand 
 < enter the second number[8 digits]: 1
 
-I enterd **1** so the output is (in **decimal**) :
+I enterd **1** so the output is (in **decimal**) :\
 < Sum is: 299
 
 ## finally
