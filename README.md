@@ -87,7 +87,7 @@ when the user want to collect two numbers withe the same base(system), Program c
 The rest of functions are **three** used to check user input is right or wrong, As **digitsCheck()**, **baseCheck()** or **numLength()**
 
 
-_digitsCheck()_ is a function used to check **each digit** of number is releted to the base of not(e.i.generally can't enter charachters like **l p k j** or symbols like **+ / # - ** )
+_digitsCheck()_ is a function used to check **each digit** of number is releted to the base of not(e.i.generally can't enter charachters like **l p k j** or symbols like **+ / # -** )
 
 e.g. if hexa
 ~~~
