@@ -26,7 +26,7 @@ _The required project of first-year - first semester - faculty of computers and 
 
 >if the user entered invalid inputs, Program will be terminated.
 
-# How the program works (user experience)
+# How the program works / Usage (user experience)
 
 ## Begining 
 
