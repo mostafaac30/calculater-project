@@ -2,8 +2,9 @@
 
 # What is it?
 
-**calculater-converter**
-_is a program divided into two branches. First, it can convert from one numerical system to another (2,8,10,16). Second, it can collect two numbers (have the same base) together._
+_The required project of first year - first semister - faculty of computers and information FCI - Fayoum universty_
+
+**calculater-converter**_is a program divided into two branches. First, it can convert from one numerical system to another (2,8,10,16). Second, it can collect two numbers (have the same base) together._
 
 >**2** for binary\
 >**8** for octal\
