@@ -1,10 +1,10 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="drawing" width="30" height="30" /> [Facebook](https://www.facebook.com/profile.php?id=100006473238307)
+# <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="drawing" width="30" height="30" /> [Facebook Profile](https://www.facebook.com/profile.php?id=100006473238307)
 
 # What is it?
 
 _The required project of first year - first semister - faculty of computers and information FCI - Fayoum universty_
 
-**calculater-converter**_is a program divided into two branches. First, it can convert from one numerical system to another (2,8,10,16). Second, it can collect two numbers (have the same base) together._
+**calculater-converter** _is a program divided into two branches. First, it can convert from one numerical system to another (2,8,10,16). Second, it can collect two numbers (have the same base) together._
 
 >**2** for binary\
 >**8** for octal\
@@ -128,4 +128,4 @@ e.g.
 ~~~
 
 
-# <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="drawing" width="30" height="30" /> [Facebook](https://www.facebook.com/profile.php?id=100006473238307)
+# <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="drawing" width="30" height="30" /> [Facebook Profile](https://www.facebook.com/profile.php?id=100006473238307)
