@@ -27,7 +27,7 @@ _is a program divided to two branches. First it can convert from one numerical s
 
 ## Begining 
 
-asks for user name
+asks for user name (like mostafa)
 >Hello!,Whats your name ?
 
 asks if you wanna convert a number to another system, Or to collect two numbers.
@@ -35,10 +35,10 @@ asks if you wanna convert a number to another system, Or to collect two numbers.
 
 ## 1 for conversion 
 
-Base of number you wanna convert it.
+Base of number you wanna convert it(I entered 16 for hexa)
 > enter the base of the number: 16
 
-Enter the number
+Enter the number(I entered 12A)
 > enter the number[8 digits]: 12A
 
 base of desired system you wanna convert TO. (I enterd 10 for decimal)
