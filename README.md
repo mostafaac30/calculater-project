@@ -36,8 +36,9 @@ asks if you wanna convert a number to another system, Or to collect two numbers.
 ## 1 for conversion 
 
 Base of number you wanna convert it.
-> enter the base of the number: 16\
+> enter the base of the number: 16
 
+Enter the number
 > enter the number[8 digits]: 12A
 
 base of desired system you wanna convert TO. (I enterd 10 for decimal)
