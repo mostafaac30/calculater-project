@@ -48,10 +48,10 @@ final result of convertion
 
 ## mid stage 
 
-...
+```
 mostafa!, Do you wanna collect the resultant to another number ?
 Enter 2 if yes or 1 for no: 2
-...
+```
 
 If you entered **1**,The program will return to **beginning** stage.
 
