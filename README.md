@@ -31,20 +31,20 @@ asks for user name
 >Hello!,Whats your name ?
 
 asks if you wanna convert a number to another system, Or to collect two numbers.
-< choose 1 for conversion or 2 for collecting two numbers: 1
+> choose 1 for conversion or 2 for collecting two numbers: 1
 
 ## 1 for conversion 
 
 Base of number you wanna convert it.
-< enter the base of the number: 16
+> enter the base of the number: 16
 
-< enter the number[8 digits]: 12A
+> enter the number[8 digits]: 12A
 
 base of desired system you wanna convert TO. (I enterd 10 for decimal)
 < Please enter the base of the converted number: 10
 
 final result of convertion
-< Decimal: 298
+> Decimal: 298
 
 ## mid stage 
 
@@ -61,10 +61,10 @@ If **2** entered, The program will start to **collect output** value (in this ca
 ## collecting /plus opearation ( 2 Entered )
 
 asks for the second operand 
-< enter the second number[8 digits]: 1
+> enter the second number[8 digits]: 1
 
-I enterd **1** so the output is (in **decimal**) :\
-< Sum is: 299
+I enterd **1** so the output is (in **decimal**) :
+> Sum is: 299
 
 ## finally
 
