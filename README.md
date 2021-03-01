@@ -71,5 +71,16 @@ I enterd **1** so the output is (in **decimal**) :
 
 program repeats itself until user exits it
 
+# program alogrithm
+
+## algorithm
+
+it based mainly(without input validation) on two functions. one called **sys_dec()**, Which take two arguments number and base for any system (octal, hex, binary) and convert it to **decimal system value**.\
+second funtion is **dec_sys()**. Which takes **decimal** number and **base of needed system**, Then it convert the decimal number to this disired system.\
+
+now the program can convert from any system to another by convert the number to decimal first and convert the output of decimal to another system.\
+
+**What about collecting feature**\
+when the user want to collect two numbers withe the same base(system), Program convert **each number** to decimal (as above), Now I got two decimal values, So program collects them normally, And the resultant will be converted to his original system by **dec_sys()**.
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="drawing" width="30" height="30" /> [Facebook](https://www.facebook.com/profile.php?id=100006473238307)
