@@ -2,7 +2,7 @@
 
 # What is it?
 
-_The required project of first-year - first semester - faculty of computers and information FCI - Fayoum universty_
+_The required project of first-year - first semester - faculty of computers and information FCI - Fayoum university_
 
 **calculater-converter** _is a program divided into two branches. First, it can convert from one numerical system to another (2,8,10,16). Second, it can collect two numbers (have the same base) together._
 
