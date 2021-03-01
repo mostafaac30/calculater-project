@@ -73,7 +73,7 @@ I entered **1** so the output is (in **decimal**) :
 
 program repeats itself until the user exits it
 
-# program algorithm
+# program algorithm (getting inside)
 
 ## algorithm
 
