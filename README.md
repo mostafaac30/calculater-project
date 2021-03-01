@@ -23,15 +23,47 @@ _is a program divided to two branches. First it can convert from one numerical s
 
 # How the program works (user experience)
 
+## Begining 
+
 asks for user name
 >Hello!,Whats your name ?
 
-asks if you wanna convert a number to another system, Or to collect two numbers (same base)
+asks if you wanna convert a number to another system, Or to collect two numbers.
+< choose 1 for conversion or 2 for collecting two numbers: 1
 
-<choose 1 for conversion or 2 for collecting two numbers:
+## 1 for conversion 
+
+Base of number you wanna convert it.
+< enter the base of the number: 16
+
+< enter the number[8 digits]: 12A
+
+base of desired system you wanna convert TO. (I enterd 10 for decimal)
+< Please enter the base of the converted number: 10
+
+final result of convertion
+< Decimal: 298
+
+## mid stage 
+
+...
+mostafa!, Do you wanna collect the resultant to another number ?
+Enter 2 if yes or 1 for no: 2
+...
+
+If you entered **1**,The program will return to **beginning** stage.
+
+If **2** entered, The program will start to **collect output** value (in this case is 298) to another value in the **same system** (in this case is Decimal).
 
 
+## collecting /plus opearation ( 2 Entered )
 
+asks for the second operand 
+< enter the second number[8 digits]: 1
 
+I enterd **1** so the output is (in **decimal**) :
+< Sum is: 299
+
+## finally the program repeats itself until user exits it
 
 ## [Facebook](https://www.facebook.com/profile.php?id=100006473238307)
