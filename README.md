@@ -21,6 +21,8 @@ _is a program divided to two branches. First it can convert from one numerical s
 
 >negative values is not accepted.
 
+>if user entered unvalid inputs, Program will be terminated.
+
 # How the program works (user experience)
 
 ## Begining 
